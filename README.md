@@ -115,14 +115,3 @@ jupyter notebook src/lightgbm_model.ipynb
 
 ---
 
-## 👨‍💻 Author
-
-**Aryan Singh**
-Computer Science Student
-
----
-
-## ⭐ If you like this project
-
-Give it a star ⭐ on GitHub!
-Enter file contents here
